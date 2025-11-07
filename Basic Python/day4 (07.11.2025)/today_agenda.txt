@@ -1,0 +1,4 @@
+Today Agenda:
+
+    1. Strings in Python
+    2. Strings Exercises
