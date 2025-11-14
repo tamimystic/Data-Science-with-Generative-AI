@@ -1,0 +1,16 @@
+# what is function?
+-> Function is a programming construct. It takes inputs and return outputs
+
+There are 2 types of function
+    1. Builtin
+    2. User define
+
+$ Benefit of functions is code Reusability.
+
+# What are functions?
+-> principle of functions
+    1. Abstraction (it is exists but we can not see that)
+    2. Decomposition ( user for Different purpose)
+
+# Components of function
+-> in python, the function is block of code defined with a name
