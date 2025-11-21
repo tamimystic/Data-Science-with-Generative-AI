@@ -1,0 +1,9 @@
+# Virtual Environment in Python
+
+#Requirement.txt
+
+# we create pyton environment for specific project.
+# python 3.9 in most stable version
+
+# Create Virtual Environment
+
