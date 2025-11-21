@@ -1,0 +1,13 @@
+prefix=C:/Inception BD/Data-Science-with-Generative-AI/Python/day 10 Mega Project (Iron man jarvis system)/jarvis/Library
+exec_prefix=C:/Inception BD/Data-Science-with-Generative-AI/Python/day 10 Mega Project (Iron man jarvis system)/jarvis/Library
+libdir=C:/Inception BD/Data-Science-with-Generative-AI/Python/day 10 Mega Project (Iron man jarvis system)/jarvis/Library/lib
+sharedlibdir=C:/Inception BD/Data-Science-with-Generative-AI/Python/day 10 Mega Project (Iron man jarvis system)/jarvis/Library/lib
+includedir=C:/Inception BD/Data-Science-with-Generative-AI/Python/day 10 Mega Project (Iron man jarvis system)/jarvis/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.1
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

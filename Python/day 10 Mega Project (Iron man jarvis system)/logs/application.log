@@ -1,0 +1,97 @@
+ [ 2025-11-21 22:10:18,014 ] comtypes.client._code_cache - INFO - Could not import comtypes.gen, trying to create it.
+ [ 2025-11-21 22:10:18,015 ] comtypes.client._code_cache - INFO - Created comtypes.gen directory: 'C:\Inception BD\Data-Science-with-Generative-AI\Python\day 10 Mega Project (Iron man jarvis system)\jarvis\Lib\site-packages\comtypes\gen'
+ [ 2025-11-21 22:10:18,015 ] comtypes.client._code_cache - INFO - Writing __init__.py file: 'C:\Inception BD\Data-Science-with-Generative-AI\Python\day 10 Mega Project (Iron man jarvis system)\jarvis\Lib\site-packages\comtypes\gen\__init__.py'
+ [ 2025-11-21 22:10:18,025 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Inception BD\Data-Science-with-Generative-AI\Python\day 10 Mega Project (Iron man jarvis system)\jarvis\Lib\site-packages\comtypes\gen'
+ [ 2025-11-21 22:10:18,044 ] comtypes.client._generate - INFO - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: No module named 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4'
+ [ 2025-11-21 22:10:18,047 ] comtypes.client._generate - INFO - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+ [ 2025-11-21 22:10:18,096 ] comtypes.client._generate - INFO - # Generating comtypes.gen.SpeechLib
+ [ 2025-11-21 22:10:18,102 ] comtypes.client._generate - INFO - Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+ [ 2025-11-21 22:10:18,102 ] comtypes.client._generate - INFO - # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+ [ 2025-11-21 22:10:18,106 ] comtypes.client._generate - INFO - # Generating comtypes.gen.stdole
+ [ 2025-11-21 22:13:07,099 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Inception BD\\Data-Science-with-Generative-AI\\Python\\day 10 Mega Project (Iron man jarvis system)\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+ [ 2025-11-21 22:13:07,099 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Inception BD\Data-Science-with-Generative-AI\Python\day 10 Mega Project (Iron man jarvis system)\jarvis\Lib\site-packages\comtypes\gen'
+ [ 2025-11-21 22:13:23,898 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Inception BD\\Data-Science-with-Generative-AI\\Python\\day 10 Mega Project (Iron man jarvis system)\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+ [ 2025-11-21 22:13:23,898 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Inception BD\Data-Science-with-Generative-AI\Python\day 10 Mega Project (Iron man jarvis system)\jarvis\Lib\site-packages\comtypes\gen'
+ [ 2025-11-21 22:16:48,853 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Inception BD\\Data-Science-with-Generative-AI\\Python\\day 10 Mega Project (Iron man jarvis system)\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+ [ 2025-11-21 22:16:48,853 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Inception BD\Data-Science-with-Generative-AI\Python\day 10 Mega Project (Iron man jarvis system)\jarvis\Lib\site-packages\comtypes\gen'
+ [ 2025-11-21 22:17:00,305 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Inception BD\\Data-Science-with-Generative-AI\\Python\\day 10 Mega Project (Iron man jarvis system)\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+ [ 2025-11-21 22:17:00,307 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Inception BD\Data-Science-with-Generative-AI\Python\day 10 Mega Project (Iron man jarvis system)\jarvis\Lib\site-packages\comtypes\gen'
+ [ 2025-11-21 22:17:11,031 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Inception BD\\Data-Science-with-Generative-AI\\Python\\day 10 Mega Project (Iron man jarvis system)\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+ [ 2025-11-21 22:17:11,032 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Inception BD\Data-Science-with-Generative-AI\Python\day 10 Mega Project (Iron man jarvis system)\jarvis\Lib\site-packages\comtypes\gen'
+ [ 2025-11-21 22:17:26,716 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Inception BD\\Data-Science-with-Generative-AI\\Python\\day 10 Mega Project (Iron man jarvis system)\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+ [ 2025-11-21 22:17:26,717 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Inception BD\Data-Science-with-Generative-AI\Python\day 10 Mega Project (Iron man jarvis system)\jarvis\Lib\site-packages\comtypes\gen'
+ [ 2025-11-21 22:19:56,588 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Inception BD\\Data-Science-with-Generative-AI\\Python\\day 10 Mega Project (Iron man jarvis system)\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+ [ 2025-11-21 22:19:56,589 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Inception BD\Data-Science-with-Generative-AI\Python\day 10 Mega Project (Iron man jarvis system)\jarvis\Lib\site-packages\comtypes\gen'
+ [ 2025-11-21 22:21:35,678 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Inception BD\\Data-Science-with-Generative-AI\\Python\\day 10 Mega Project (Iron man jarvis system)\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+ [ 2025-11-21 22:21:35,678 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Inception BD\Data-Science-with-Generative-AI\Python\day 10 Mega Project (Iron man jarvis system)\jarvis\Lib\site-packages\comtypes\gen'
+ [ 2025-11-21 22:21:55,770 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Inception BD\\Data-Science-with-Generative-AI\\Python\\day 10 Mega Project (Iron man jarvis system)\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+ [ 2025-11-21 22:21:55,770 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Inception BD\Data-Science-with-Generative-AI\Python\day 10 Mega Project (Iron man jarvis system)\jarvis\Lib\site-packages\comtypes\gen'
+ [ 2025-11-21 22:22:06,844 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Inception BD\\Data-Science-with-Generative-AI\\Python\\day 10 Mega Project (Iron man jarvis system)\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+ [ 2025-11-21 22:22:06,845 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Inception BD\Data-Science-with-Generative-AI\Python\day 10 Mega Project (Iron man jarvis system)\jarvis\Lib\site-packages\comtypes\gen'
+ [ 2025-11-21 22:33:46,040 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Inception BD\\Data-Science-with-Generative-AI\\Python\\day 10 Mega Project (Iron man jarvis system)\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+ [ 2025-11-21 22:33:46,040 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Inception BD\Data-Science-with-Generative-AI\Python\day 10 Mega Project (Iron man jarvis system)\jarvis\Lib\site-packages\comtypes\gen'
+ [ 2025-11-21 22:35:50,416 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Inception BD\\Data-Science-with-Generative-AI\\Python\\day 10 Mega Project (Iron man jarvis system)\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+ [ 2025-11-21 22:35:50,416 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Inception BD\Data-Science-with-Generative-AI\Python\day 10 Mega Project (Iron man jarvis system)\jarvis\Lib\site-packages\comtypes\gen'
+ [ 2025-11-21 22:37:32,923 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Inception BD\\Data-Science-with-Generative-AI\\Python\\day 10 Mega Project (Iron man jarvis system)\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+ [ 2025-11-21 22:37:32,923 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Inception BD\Data-Science-with-Generative-AI\Python\day 10 Mega Project (Iron man jarvis system)\jarvis\Lib\site-packages\comtypes\gen'
+ [ 2025-11-21 22:38:03,847 ] root - INFO - 
+ [ 2025-11-21 22:42:39,485 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Inception BD\\Data-Science-with-Generative-AI\\Python\\day 10 Mega Project (Iron man jarvis system)\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+ [ 2025-11-21 22:42:39,486 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Inception BD\Data-Science-with-Generative-AI\Python\day 10 Mega Project (Iron man jarvis system)\jarvis\Lib\site-packages\comtypes\gen'
+ [ 2025-11-21 22:50:40,553 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Inception BD\\Data-Science-with-Generative-AI\\Python\\day 10 Mega Project (Iron man jarvis system)\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+ [ 2025-11-21 22:50:40,553 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Inception BD\Data-Science-with-Generative-AI\Python\day 10 Mega Project (Iron man jarvis system)\jarvis\Lib\site-packages\comtypes\gen'
+ [ 2025-11-21 22:52:07,697 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Inception BD\\Data-Science-with-Generative-AI\\Python\\day 10 Mega Project (Iron man jarvis system)\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+ [ 2025-11-21 22:52:07,698 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Inception BD\Data-Science-with-Generative-AI\Python\day 10 Mega Project (Iron man jarvis system)\jarvis\Lib\site-packages\comtypes\gen'
+ [ 2025-11-21 22:53:45,455 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Inception BD\\Data-Science-with-Generative-AI\\Python\\day 10 Mega Project (Iron man jarvis system)\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+ [ 2025-11-21 22:53:45,455 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Inception BD\Data-Science-with-Generative-AI\Python\day 10 Mega Project (Iron man jarvis system)\jarvis\Lib\site-packages\comtypes\gen'
+ [ 2025-11-21 22:56:10,973 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Inception BD\\Data-Science-with-Generative-AI\\Python\\day 10 Mega Project (Iron man jarvis system)\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+ [ 2025-11-21 22:56:10,973 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Inception BD\Data-Science-with-Generative-AI\Python\day 10 Mega Project (Iron man jarvis system)\jarvis\Lib\site-packages\comtypes\gen'
+ [ 2025-11-21 22:58:29,482 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Inception BD\\Data-Science-with-Generative-AI\\Python\\day 10 Mega Project (Iron man jarvis system)\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+ [ 2025-11-21 22:58:29,482 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Inception BD\Data-Science-with-Generative-AI\Python\day 10 Mega Project (Iron man jarvis system)\jarvis\Lib\site-packages\comtypes\gen'
+ [ 2025-11-21 23:02:34,995 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Inception BD\\Data-Science-with-Generative-AI\\Python\\day 10 Mega Project (Iron man jarvis system)\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+ [ 2025-11-21 23:02:34,995 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Inception BD\Data-Science-with-Generative-AI\Python\day 10 Mega Project (Iron man jarvis system)\jarvis\Lib\site-packages\comtypes\gen'
+ [ 2025-11-21 23:02:49,387 ] root - INFO - User asked for assistant's name.
+ [ 2025-11-21 23:03:10,125 ] root - INFO - User exited the program.
+ [ 2025-11-21 23:06:42,199 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Inception BD\\Data-Science-with-Generative-AI\\Python\\day 10 Mega Project (Iron man jarvis system)\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+ [ 2025-11-21 23:06:42,199 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Inception BD\Data-Science-with-Generative-AI\Python\day 10 Mega Project (Iron man jarvis system)\jarvis\Lib\site-packages\comtypes\gen'
+ [ 2025-11-21 23:07:57,250 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Inception BD\\Data-Science-with-Generative-AI\\Python\\day 10 Mega Project (Iron man jarvis system)\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+ [ 2025-11-21 23:07:57,250 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Inception BD\Data-Science-with-Generative-AI\Python\day 10 Mega Project (Iron man jarvis system)\jarvis\Lib\site-packages\comtypes\gen'
+ [ 2025-11-21 23:08:10,969 ] root - INFO - User asked for assistant's name.
+ [ 2025-11-21 23:10:24,415 ] root - INFO - 
+ [ 2025-11-21 23:18:02,047 ] root - INFO - 
+ [ 2025-11-21 23:18:11,670 ] root - INFO - 
+ [ 2025-11-21 23:18:16,934 ] root - INFO - 
+ [ 2025-11-21 23:20:10,828 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Inception BD\\Data-Science-with-Generative-AI\\Python\\day 10 Mega Project (Iron man jarvis system)\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+ [ 2025-11-21 23:20:10,828 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Inception BD\Data-Science-with-Generative-AI\Python\day 10 Mega Project (Iron man jarvis system)\jarvis\Lib\site-packages\comtypes\gen'
+ [ 2025-11-21 23:20:53,066 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Inception BD\\Data-Science-with-Generative-AI\\Python\\day 10 Mega Project (Iron man jarvis system)\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+ [ 2025-11-21 23:20:53,066 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Inception BD\Data-Science-with-Generative-AI\Python\day 10 Mega Project (Iron man jarvis system)\jarvis\Lib\site-packages\comtypes\gen'
+ [ 2025-11-21 23:21:57,048 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Inception BD\\Data-Science-with-Generative-AI\\Python\\day 10 Mega Project (Iron man jarvis system)\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+ [ 2025-11-21 23:21:57,048 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Inception BD\Data-Science-with-Generative-AI\Python\day 10 Mega Project (Iron man jarvis system)\jarvis\Lib\site-packages\comtypes\gen'
+ [ 2025-11-21 23:22:17,085 ] root - INFO - 
+ [ 2025-11-22 00:02:49,019 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Inception BD\\Data-Science-with-Generative-AI\\Python\\day 10 Mega Project (Iron man jarvis system)\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+ [ 2025-11-22 00:02:49,019 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Inception BD\Data-Science-with-Generative-AI\Python\day 10 Mega Project (Iron man jarvis system)\jarvis\Lib\site-packages\comtypes\gen'
+ [ 2025-11-22 00:03:05,631 ] root - INFO - 
+ [ 2025-11-22 00:04:23,317 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Inception BD\\Data-Science-with-Generative-AI\\Python\\day 10 Mega Project (Iron man jarvis system)\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+ [ 2025-11-22 00:04:23,317 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Inception BD\Data-Science-with-Generative-AI\Python\day 10 Mega Project (Iron man jarvis system)\jarvis\Lib\site-packages\comtypes\gen'
+ [ 2025-11-22 00:04:50,311 ] root - INFO - 
+ [ 2025-11-22 00:04:55,414 ] root - INFO - 
+ [ 2025-11-22 00:05:00,707 ] root - INFO - 
+ [ 2025-11-22 00:05:07,517 ] root - INFO - 
+ [ 2025-11-22 00:05:13,362 ] root - INFO - 
+ [ 2025-11-22 00:05:18,973 ] root - INFO - 
+ [ 2025-11-22 00:05:33,007 ] root - INFO - 
+ [ 2025-11-22 00:06:16,038 ] root - INFO - User requested information from Wikipedia.
+ [ 2025-11-22 00:06:21,707 ] root - INFO - 
+ [ 2025-11-22 00:06:27,076 ] root - INFO - 
+ [ 2025-11-22 00:11:15,549 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Inception BD\\Data-Science-with-Generative-AI\\Python\\day 10 Mega Project (Iron man jarvis system)\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+ [ 2025-11-22 00:11:15,550 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Inception BD\Data-Science-with-Generative-AI\Python\day 10 Mega Project (Iron man jarvis system)\jarvis\Lib\site-packages\comtypes\gen'
+ [ 2025-11-22 00:13:30,912 ] root - INFO - 
+ [ 2025-11-22 00:13:34,125 ] root - INFO - 
+ [ 2025-11-22 00:14:59,906 ] root - INFO - 
+ [ 2025-11-22 00:15:03,493 ] root - INFO - 
+ [ 2025-11-22 00:15:05,441 ] root - INFO - 
+ [ 2025-11-22 00:15:08,187 ] root - INFO - 
+ [ 2025-11-22 00:15:11,068 ] root - INFO - 
+ [ 2025-11-22 00:15:48,413 ] root - INFO - 
+ [ 2025-11-22 00:15:53,562 ] root - INFO - 
+ [ 2025-11-22 00:18:25,851 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Inception BD\\Data-Science-with-Generative-AI\\Python\\day 10 Mega Project (Iron man jarvis system)\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+ [ 2025-11-22 00:18:25,851 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Inception BD\Data-Science-with-Generative-AI\Python\day 10 Mega Project (Iron man jarvis system)\jarvis\Lib\site-packages\comtypes\gen'
