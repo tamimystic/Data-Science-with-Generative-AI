@@ -1,6 +1,6 @@
 # Virtual Environment in Python
 
-#Requirement.txt
+#Requirement.txt (install multiple library using this)   -> pin install -r <file_name.txt> ,, here read means 'read one by one'
 
 # we create pyton environment for specific project.
 # python 3.9 in most stable version
